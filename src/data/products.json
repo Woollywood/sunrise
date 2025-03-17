@@ -1,0 +1,169 @@
+{
+	"products": [
+		{ "id": 1, "name": "Wireless Headphones", "price": 59.99, "brand": "SoundMax", "isNew": true },
+		{ "id": 2, "name": "Gaming Mouse", "price": 34.99, "brand": "TechGear" },
+		{ "id": 3, "name": "Mechanical Keyboard", "price": 79.99, "brand": "KeyMaster", "isNew": true },
+		{ "id": 4, "name": "Smartphone Stand", "price": 19.99, "brand": "GadgetPro" },
+		{ "id": 5, "name": "Bluetooth Speaker", "price": 49.99, "brand": "SoundWave" },
+		{ "id": 6, "name": "USB-C Hub", "price": 29.99, "brand": "ConnectX" },
+		{ "id": 7, "name": "Portable SSD 1TB", "price": 129.99, "brand": "DataSafe" },
+		{ "id": 8, "name": "4K Monitor", "price": 299.99, "brand": "UltraView", "isNew": true },
+		{ "id": 9, "name": "Noise Cancelling Earbuds", "price": 89.99, "brand": "AudioElite" },
+		{ "id": 10, "name": "Ergonomic Office Chair", "price": 199.99, "brand": "ComfortSeat" },
+		{ "id": 11, "name": "Smartwatch", "price": 149.99, "brand": "TimeSync", "isNew": true },
+		{ "id": 12, "name": "Laptop Backpack", "price": 39.99, "brand": "TravelEase" },
+		{ "id": 13, "name": "External Hard Drive 2TB", "price": 89.99, "brand": "DataVault" },
+		{ "id": 14, "name": "Wireless Charger", "price": 24.99, "brand": "ChargeMate" },
+		{ "id": 15, "name": "Mechanical Pencil", "price": 9.99, "brand": "WritePro" },
+		{ "id": 16, "name": "Portable Power Bank", "price": 39.99, "brand": "EnergyGo", "isNew": true },
+		{ "id": 17, "name": "Smart Home Camera", "price": 79.99, "brand": "HomeSecure" },
+		{ "id": 18, "name": "LED Desk Lamp", "price": 29.99, "brand": "BrightWay" },
+		{ "id": 19, "name": "Electric Toothbrush", "price": 49.99, "brand": "SmileTech" },
+		{ "id": 20, "name": "Fitness Tracker", "price": 69.99, "brand": "FitLife" }
+	],
+	"1": {
+		"id": 1,
+		"name": "Wireless Headphones",
+		"description": "High-quality wireless headphones with noise cancellation and deep bass.",
+		"price": 59.99,
+		"brand": "SoundMax",
+		"isNew": true
+	},
+	"2": {
+		"id": 2,
+		"name": "Gaming Mouse",
+		"description": "Ergonomic gaming mouse with customizable RGB lighting and high-precision sensor.",
+		"price": 34.99,
+		"brand": "TechGear"
+	},
+	"3": {
+		"id": 3,
+		"name": "Mechanical Keyboard",
+		"description": "Durable mechanical keyboard with tactile switches and RGB backlighting.",
+		"price": 79.99,
+		"brand": "KeyMaster",
+		"isNew": true
+	},
+	"4": {
+		"id": 4,
+		"name": "Smartphone Stand",
+		"description": "Adjustable smartphone stand for hands-free viewing and video calls.",
+		"price": 19.99,
+		"brand": "GadgetPro"
+	},
+	"5": {
+		"id": 5,
+		"name": "Bluetooth Speaker",
+		"description": "Portable Bluetooth speaker with deep bass and 12-hour battery life.",
+		"price": 49.99,
+		"brand": "SoundWave"
+	},
+	"6": {
+		"id": 6,
+		"name": "USB-C Hub",
+		"description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card slots.",
+		"price": 29.99,
+		"brand": "ConnectX"
+	},
+	"7": {
+		"id": 7,
+		"name": "Portable SSD 1TB",
+		"description": "High-speed portable SSD with 1TB storage for quick file transfers.",
+		"price": 129.99,
+		"brand": "DataSafe"
+	},
+	"8": {
+		"id": 8,
+		"name": "4K Monitor",
+		"description": "Ultra HD 4K monitor with HDR and 144Hz refresh rate for smooth visuals.",
+		"price": 299.99,
+		"brand": "UltraView",
+		"isNew": true
+	},
+	"9": {
+		"id": 9,
+		"name": "Noise Cancelling Earbuds",
+		"description": "Wireless earbuds with active noise cancellation and long battery life.",
+		"price": 89.99,
+		"brand": "AudioElite"
+	},
+	"10": {
+		"id": 10,
+		"name": "Ergonomic Office Chair",
+		"description": "Comfortable office chair with lumbar support and adjustable height.",
+		"price": 199.99,
+		"brand": "ComfortSeat"
+	},
+	"11": {
+		"id": 11,
+		"name": "Smartwatch",
+		"description": "Feature-rich smartwatch with fitness tracking and heart rate monitoring.",
+		"price": 149.99,
+		"brand": "TimeSync",
+		"isNew": true
+	},
+	"12": {
+		"id": 12,
+		"name": "Laptop Backpack",
+		"description": "Water-resistant laptop backpack with multiple compartments and USB charging port.",
+		"price": 39.99,
+		"brand": "TravelEase"
+	},
+	"13": {
+		"id": 13,
+		"name": "External Hard Drive 2TB",
+		"description": "Reliable 2TB external hard drive with fast data transfer speeds.",
+		"price": 89.99,
+		"brand": "DataVault"
+	},
+	"14": {
+		"id": 14,
+		"name": "Wireless Charger",
+		"description": "Fast wireless charger compatible with Qi-enabled devices.",
+		"price": 24.99,
+		"brand": "ChargeMate"
+	},
+	"15": {
+		"id": 15,
+		"name": "Mechanical Pencil",
+		"description": "Precision mechanical pencil with a comfortable grip and replaceable leads.",
+		"price": 9.99,
+		"brand": "WritePro"
+	},
+	"16": {
+		"id": 16,
+		"name": "Portable Power Bank",
+		"description": "10,000mAh power bank for charging devices on the go.",
+		"price": 39.99,
+		"brand": "EnergyGo",
+		"isNew": true
+	},
+	"17": {
+		"id": 17,
+		"name": "Smart Home Camera",
+		"description": "Wi-Fi security camera with night vision and motion detection.",
+		"price": 79.99,
+		"brand": "HomeSecure"
+	},
+	"18": {
+		"id": 18,
+		"name": "LED Desk Lamp",
+		"description": "Adjustable LED desk lamp with touch control and three brightness levels.",
+		"price": 29.99,
+		"brand": "BrightWay"
+	},
+	"19": {
+		"id": 19,
+		"name": "Electric Toothbrush",
+		"description": "Rechargeable electric toothbrush with multiple cleaning modes.",
+		"price": 49.99,
+		"brand": "SmileTech"
+	},
+	"20": {
+		"id": 20,
+		"name": "Fitness Tracker",
+		"description": "Smart fitness tracker with step counter, sleep monitoring, and heart rate sensor.",
+		"price": 69.99,
+		"brand": "FitLife"
+	}
+}

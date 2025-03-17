@@ -1,0 +1,1 @@
+export type ExtractUnion<T, U> = T extends U ? T : never;
