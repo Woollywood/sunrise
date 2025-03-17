@@ -23,7 +23,11 @@ export const ProductList: React.FC<Props> = ({ products }) => {
 					return b.name.localeCompare(a.name);
 				}
 			case 'price':
-				return a.price - b.price;
+				if (filteredFieldDirection === 'asc') {
+					return a.price - b.price;
+				} else {
+					return b.price - a.price;
+				}
 		}
 	});
 	const filteredProducts = isNewOnly ? sortedProducts.filter(({ isNew }) => Boolean(isNew)) : sortedProducts;
